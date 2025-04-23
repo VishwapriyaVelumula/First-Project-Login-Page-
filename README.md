@@ -11,13 +11,13 @@ This project is a basic login page built using pure **HTML** and **CSS**, design
 - Minimalistic design achieved with CSS.
 - Includes "Forgot Password" text for potential functionality in future updates.
 
-#What's Next?
-#Future enhancements for the project include:
+## What's Next?
+## Future enhancements for the project include:
 - Adding JavaScript for client-side validation and interactivity.
 - Integrating backend functionality to process login credentials securely.
 
-#Project Preview
+## Project Preview
 Include a screenshot or GIF of the login page here to give viewers a visual idea.
 
-#Feedback and Contributions
+## Feedback and Contributions
 Feedback is always welcome! If you'd like to contribute to this project, feel free to submit a pull request or open an issue.
